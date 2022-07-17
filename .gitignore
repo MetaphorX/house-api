@@ -5,6 +5,10 @@
 /.pnp
 .pnp.js
 
+#still working on
+/context
+/houses_backend
+
 # testing
 /coverage
 
